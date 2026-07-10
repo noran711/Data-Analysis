@@ -9,28 +9,28 @@ https://github.com/mic-dkfz/nnunet
 
 **M1** - Base Model
 Training images: 84
-Epochs: 100
-Fold: 0
+,Epochs: 100
+,Fold: 0
 
 **M2** - Reduced Dataset
 Training images: 42
-Epochs: 100
-Fold: 0
+,Epochs: 100
+,Fold: 0
 
 **M3** - Smallest Dataset
 Training images: 21
-Epochs: 100
-Fold: 0
+,Epochs: 100
+,Fold: 0
 
 **M4** - Five-Fold Cross-Validation
 Training images: 84
-Epochs: 100
-Folds: 0–4
+,Epochs: 100
+,Folds: 0–4
 
 **M5** - augmented Dataset
 Training images: 168  (applied Albumentations to generate an additional 84 augmented samples)
-Epochs: 100
-Fold: 0
+,Epochs: 100
+,Fold: 0
 
 # test_data 
 A separate test set consisting of **9 images** was used to evaluate the performance of all models. These images were **not included in any training dataset** and remained completely unseen throughout the training process, ensuring an unbiased evaluation of each model's generalization performance.
