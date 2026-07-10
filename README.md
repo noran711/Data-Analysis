@@ -28,7 +28,7 @@ Training images: 84
 ,Folds: 0–4
 
 **M5** - augmented Dataset
-Training images: 168  (applied Albumentations to generate an additional 84 augmented samples)
+Training images: 168  (application of Albumentations to generate an additional 84 augmented samples)
 ,Epochs: 100
 ,Fold: 0
 
