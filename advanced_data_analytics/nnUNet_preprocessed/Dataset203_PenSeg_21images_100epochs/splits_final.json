@@ -1,0 +1,137 @@
+[
+    {
+        "train": [
+            "stift_0002",
+            "stift_0013",
+            "stift_0019",
+            "stift_0031",
+            "stift_0037",
+            "stift_0039",
+            "stift_0042",
+            "stift_0050",
+            "stift_0053",
+            "stift_0059",
+            "stift_0060",
+            "stift_0063",
+            "stift_0065",
+            "stift_0071",
+            "stift_0079",
+            "stift_0081"
+        ],
+        "val": [
+            "stift_0030",
+            "stift_0048",
+            "stift_0061",
+            "stift_0067",
+            "stift_0068"
+        ]
+    },
+    {
+        "train": [
+            "stift_0013",
+            "stift_0019",
+            "stift_0030",
+            "stift_0031",
+            "stift_0037",
+            "stift_0039",
+            "stift_0048",
+            "stift_0050",
+            "stift_0059",
+            "stift_0061",
+            "stift_0063",
+            "stift_0065",
+            "stift_0067",
+            "stift_0068",
+            "stift_0071",
+            "stift_0079",
+            "stift_0081"
+        ],
+        "val": [
+            "stift_0002",
+            "stift_0042",
+            "stift_0053",
+            "stift_0060"
+        ]
+    },
+    {
+        "train": [
+            "stift_0002",
+            "stift_0013",
+            "stift_0019",
+            "stift_0030",
+            "stift_0031",
+            "stift_0037",
+            "stift_0042",
+            "stift_0048",
+            "stift_0050",
+            "stift_0053",
+            "stift_0060",
+            "stift_0061",
+            "stift_0063",
+            "stift_0065",
+            "stift_0067",
+            "stift_0068",
+            "stift_0079"
+        ],
+        "val": [
+            "stift_0039",
+            "stift_0059",
+            "stift_0071",
+            "stift_0081"
+        ]
+    },
+    {
+        "train": [
+            "stift_0002",
+            "stift_0013",
+            "stift_0019",
+            "stift_0030",
+            "stift_0031",
+            "stift_0037",
+            "stift_0039",
+            "stift_0042",
+            "stift_0048",
+            "stift_0053",
+            "stift_0059",
+            "stift_0060",
+            "stift_0061",
+            "stift_0067",
+            "stift_0068",
+            "stift_0071",
+            "stift_0081"
+        ],
+        "val": [
+            "stift_0050",
+            "stift_0063",
+            "stift_0065",
+            "stift_0079"
+        ]
+    },
+    {
+        "train": [
+            "stift_0002",
+            "stift_0030",
+            "stift_0039",
+            "stift_0042",
+            "stift_0048",
+            "stift_0050",
+            "stift_0053",
+            "stift_0059",
+            "stift_0060",
+            "stift_0061",
+            "stift_0063",
+            "stift_0065",
+            "stift_0067",
+            "stift_0068",
+            "stift_0071",
+            "stift_0079",
+            "stift_0081"
+        ],
+        "val": [
+            "stift_0013",
+            "stift_0019",
+            "stift_0031",
+            "stift_0037"
+        ]
+    }
+]
