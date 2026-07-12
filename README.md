@@ -38,3 +38,8 @@ A separate test set consisting of **9 images** was used to evaluate the performa
 # Link to our Google Drive with all trained models
 
 https://drive.google.com/drive/folders/1eyQyHxYgM5Pf9fL6zXKzBZRbYSnwCMo5?usp=sharing
+
+
+## 📊 Summary
+
+The results indicate that model performance is positively associated with training dataset size, with larger datasets consistently yielding higher segmentation accuracy. In addition, 5-fold cross-validation resulted in a modest improvement over single-fold training, suggesting slightly better model generalization, although the overall effect remained limited.
