@@ -1,0 +1,11 @@
+{
+    "folder_with_segs_from_prev_stage": null,
+    "list_of_lists_or_source_folder": "/home/mci/BHS_project/advanced_data_analytics/nnUNet_raw/Dataset200_PenSeg_100epochs/imagesTs",
+    "num_parts": 1,
+    "num_processes_preprocessing": 3,
+    "num_processes_segmentation_export": 3,
+    "output_folder_or_list_of_truncated_output_files": "/home/mci/BHS_project/advanced_data_analytics/predictions/PenSeg_100epochs",
+    "overwrite": true,
+    "part_id": 0,
+    "save_probabilities": false
+}
