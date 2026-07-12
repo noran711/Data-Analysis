@@ -34,3 +34,7 @@ Training images: 168  (application of Albumentations to generate an additional 8
 
 # test_data 
 A separate test set consisting of **9 images** was used to evaluate the performance of all models. These images were **not included in any training dataset** and remained completely unseen throughout the training process, ensuring an unbiased evaluation of each model's generalization performance.
+
+# Link to our Google Drive with all trained models
+
+https://drive.google.com/drive/folders/1eyQyHxYgM5Pf9fL6zXKzBZRbYSnwCMo5?usp=sharing
